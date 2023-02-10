@@ -8,7 +8,7 @@ The benefits of using a simple password generator app are numerous. By automatic
 
 Overall, a simple password generator app is a helpful tool for anyone who wants to improve the security of their online accounts and protect their sensitive information from potential breaches.
 
-![Shoe App](https://i.imgur.com/YIXkcXs.png)
+![Password_Generator_App](https://i.imgur.com/F0QSrTz.png)
 
 ## Features
 
