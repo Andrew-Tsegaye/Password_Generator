@@ -1,6 +1,6 @@
 # Password Generator App
 
-![Password_Generator_App](https://i.imgur.com/F0QSrTz.png)
+![Password_Generator_App](https://i.imgur.com/fiC4Ncq.png)
 
 This simple password generator app is a tool that automatically generates strong, random passwords for users. These apps can be web-based or standalone software programs, and they typically offer a variety of customization options to help users create passwords that meet their specific security needs.
 
@@ -19,6 +19,4 @@ Overall, a simple password generator app is a helpful tool for anyone who wants 
 
 **Client:** JavaScript, HTML5, CSS3
 
-## Author
-
-- [@Andrew-Tsegaye](https://www.github.com/Andrew-Tsegaye)
+By developer and designer [Andrew Tsegaye](https://www.github.com/Andrew-Tsegaye)
